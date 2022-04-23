@@ -8,13 +8,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ☑ My former account name: @cheese98
 - more information: https://jj9810.github.io/introduce/
 
 [![cheese98's github stats](https://github-readme-stats.vercel.app/api?username=jj9810)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jj9810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**cheese98/cheese98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jj9810/jj9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
