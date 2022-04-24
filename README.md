@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ☑ My sub account name: @10808249
+- ☑ My former account name: @cheese98
 - 🔭 I’m currently working on a student.
 - 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on ...
@@ -8,7 +10,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ☑ My former account name: @cheese98
 - more information: https://jj9810.github.io/introduce/
 
 [![cheese98's github stats](https://github-readme-stats.vercel.app/api?username=jj9810)](https://github.com/anuraghazra/github-readme-stats)
